@@ -25,7 +25,7 @@ Push server OS info to Intersight in order to evaluate the server's HCL using Do
 
 <br>
 
-Steps: 
+## Steps
   - Clone this github repo
   - Create hosts file in the local directory.
     - File with target linux host IP's. 
