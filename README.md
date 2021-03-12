@@ -84,5 +84,5 @@ Steps:
 
 [ODT: END-TIMESTAMP: 2021-03-12 21:05:11.664952]
 
-√ test % 
+% 
 `
