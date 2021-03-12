@@ -1,0 +1,9 @@
+{
+    "config": {
+        "hosts_file_path": "/ostool/hosts",
+        "intersight_url": "https://intersight.com/api/v1",
+        "intersight_api_key": "<replace_with_intersight_api_key>",
+        "intersight_secret_file": "/ostool/SecretKey.txt",
+        "logfile_path": "/ostool"
+    }
+}
