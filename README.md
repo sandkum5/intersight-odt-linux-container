@@ -1,3 +1,5 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/sandkum5/intersight-odt-linux-container)
+
 # Run OS Discovery Toolset scripts using Docker Container 
 ### Linux Link: https://github.com/CiscoUcs/intersight-python/tree/master/os-discovery-tool
 
